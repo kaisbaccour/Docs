@@ -25,10 +25,9 @@ Our goal is to come up with the most fair and equal distribution of the token su
   * Referral Program: 4.3% per block 
   * Holders Insurance: 1% per block 
   * Team: 9% per block 
-  * 50 million KUS tokens for transaction fees reward.
 * 2,100,000 → Team tokens, locked and vested for 12 months
 * 2,000,000 → Unlocked for marketing and partnerships
-* 420,000 → Presale including referrals
+* 400,000 → Presale including referrals
 * 400,000 → Initial liquidity
 * 100,000 → Giveaways/Prizes
 
