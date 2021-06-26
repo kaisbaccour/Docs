@@ -1,16 +1,16 @@
 # 💙 KuSwap Official Community
 
-[https://kuswap.finance/\#/swap](https://kuswap.finance/#/swap)
+\_\_[_https://kuswap.finance/\#/swap_](https://kuswap.finance/#/swap)\_\_
 
-[https://twitter.com/kuswapfinance](https://twitter.com/kuswapfinance)
+\_\_[_https://twitter.com/kuswapfinance_](https://twitter.com/kuswapfinance)\_\_
 
-[https://www.facebook.com/kuswap](https://www.facebook.com/kuswap)
+\_\_[_https://www.facebook.com/kuswap_](https://www.facebook.com/kuswap)\_\_
 
-[https://t.me/kuswapfinance](https://t.me/kuswapfinance)
+\_\_[_https://t.me/kuswapfinance_](https://t.me/kuswapfinance)\_\_
 
-[https://t.me/kuswapannouncements](https://t.me/kuswapannouncements)
+\_\_[_https://t.me/kuswapannouncements_](https://t.me/kuswapannouncements)\_\_
 
-[https://www.reddit.com/r/KuSwapFinance/](https://www.reddit.com/r/KuSwapFinance/)
+\_\_[_https://www.reddit.com/r/KuSwapFinance/_](https://www.reddit.com/r/KuSwapFinance/)\_\_
 
-[https://kuswap.medium.com/](https://kuswap.medium.com/)
+\_\_[_https://kuswap.medium.com/_](https://kuswap.medium.com/)\_\_
 
