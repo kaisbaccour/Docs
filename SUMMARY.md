@@ -8,4 +8,5 @@
 * [RoadMap](roadmap.md)
 * [KUS Tokenomics](kus-tokenomics.md)
 * [KuSwap Official Community](kuswap-official-community.md)
+* [Contact Us](contact-us.md)
 
