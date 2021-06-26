@@ -1,4 +1,4 @@
-# KuSwap Official Community
+# 💙 KuSwap Official Community
 
 [https://kuswap.finance/\#/swap](https://kuswap.finance/#/swap)
 

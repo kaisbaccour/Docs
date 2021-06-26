@@ -4,7 +4,7 @@ description: >-
   details will be coming very soon.
 ---
 
-# KUS Tokenomics
+# 🌟 KUS Tokenomics
 
 We took one of our favourite coins, Sushiswap, and used it as the basis for our tokenomics. We made some alterations along the way to better suit our vision, keep things fresh and original, and improve the economics around the token.
 

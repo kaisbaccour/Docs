@@ -1,6 +1,4 @@
-# Contact Us
-
-## Contact us
+# 🎯 Contact Us
 
 Contact us and we'll assist you with launching your project on **KuSwap**, since we are highly customizable crowdfunding platform.
 
