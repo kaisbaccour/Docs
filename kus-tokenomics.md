@@ -24,7 +24,7 @@ Our goal is to come up with the most fair and equal distribution of the token su
 * 350,000,000 → Total supply/hardcap
 * 345,000,000 → Emissions 
   * Farms / Launchpools: 85.7% per block 
-  * Referral Program: 4.3% per block 
+  * KuDrops: 4.3% per block 
   * Holders Insurance: 1% per block 
   * Team: 9% per block 
 * 2,100,000 → Team tokens, locked and vested for 12 months
