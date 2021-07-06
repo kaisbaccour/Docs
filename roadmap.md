@@ -1,4 +1,4 @@
-# RoadMap
+# 🗺 RoadMap
 
 KUS is the token that powers and flows through the KuSwap ecosystem. It allows holders to farm, enter into pools and swap on the exchange among many other things, all at a virtually feeless cost.
 

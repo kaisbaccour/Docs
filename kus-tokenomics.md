@@ -4,7 +4,7 @@ description: >-
   details will be coming very soon.
 ---
 
-# KUS Tokenomics
+# 🌟 KUS Tokenomics
 
 We took one of our favourite coin Sushiswap, and used it as the basis for our tokenomics. We made some alterations along the way to better suit our vision, keep things fresh and original, and improve the economics around the token.
 
@@ -12,9 +12,10 @@ Compared to others like Sushi or Cake, KUS doesn't have an infinite supply.
 
 **The tokenomics of KUS can be broken down in the following way:**
 
-* At launch 30 (to be changed to 15-20) KUS tokens will be minted per block.
-* Every 2 months, number of tokens minted per block is reduced by 2 tokens.
-* Up to 100% of the exchange trade fees are awarded to holders in the form of KUS tokens (for selected pairs).
+* ~~At launch 30 KUS tokens will be minted per block~~
+* Since launch only **1** KUS is minted per block, the lowest possible.
+* ~~Every 2 months, number of tokens minted per block is reduced by 2 tokens.~~
+* Up to 100% of the exchange trade fees are awarded to holders in the form of KUS tokens \(for selected pairs\).
 * 50% of swap fees are reserved for a scheduled buyback of the KUS token for burning, and the remaining 50% go to development.
 
 Our goal is to come up with the most fair and equal distribution of the token supply so that early holders are heavily rewarded, while at the same time creating strong incentives for long term growth, encouraging new investors to join our ecosystem.
@@ -44,3 +45,4 @@ At present, KUS is also burned in the following ways:
 * [x] **2%** of every yield harvest in the KUS Pool
 
 **In creating the tokenomics for KUS we took inspiration from other successful AMMs we admire like Pancake and Uniswap and combined the best aspects of each one in order to create a highly optimised token that users will appreciate holding and using.**
+
