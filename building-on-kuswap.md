@@ -24,7 +24,7 @@ description: 'Build on KuSwap, need help? let us know.'
 
 **WKCS Address:** `0x5512Ae5E7eE55869dA7dc2a5D2F74a5Df65683B8`
 
-## How to get your token listed on KuSwap:
+## How to get your token LOGO on KuSwap:
 
 ### 1. Image for the Token Logo <a id="1-image-for-the-token-logo"></a>
 
@@ -56,7 +56,7 @@ The contract address should follow the checksum address format \(see next requir
 }
 ```
 
-## How to get Approved
+## How to get your LOGO Approved
 
 Fork and Submit @ [https://github.com/KuSwap/kusTokenList](https://github.com/KuSwap/kusTokenList) 
 
