@@ -31,8 +31,8 @@ Our goal is to come up with the most fair and equal distribution of the token su
 * 2,100,000 → Team tokens, locked and vested for 12 months
 * 2,000,000 → Unlocked for marketing and partnerships
 * 400,000 → Presale including referrals
-* 400,000 → Initial liquidity
-* 100,000 → Giveaways/Prizes
+* 100,000 → Initial liquidity
+* 100,000 → Future Contests ie. Trading Contests
 
 ## **Our Deflationary Mechanics**
 
