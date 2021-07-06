@@ -59,7 +59,7 @@ The contract address should follow the checksum address format \(see next requir
 ```
 
 ## How to get Approved
-
+Fork and Submit @ https://github.com/KuSwap/kusTokenList
 The Pull request will be screened before it gets added to the repository. In order to get approved, your submission must meet the following requirements.
 
 
