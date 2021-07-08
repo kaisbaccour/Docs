@@ -19,9 +19,10 @@ Constant token burning helps maintain the token's value and also hedges against 
 Burning may involve the developers of the project repurchasing tokens from the market or burning a portion of the supply already available to them. We have implemented a couple of deflationary mechanisms.
 
 1. All the unclaimed rewards from KuDrops are used for KUS token burning. 
-2. 50% of the AMM fees are used for buying the KUS tokens back from the market and burning them.
-3. 50% of the fees from KusPad and upcoming Lending & NFT marketplace 
-4. 50% of the farming fees will be used to burn in the future
+2. **50**% of the AMM fees are used for buying the KUS tokens back from the market and burning them.
+3. **50**% of the fees from KusPad and upcoming Lending & NFT marketplace 
+4. **50**% of the farming fees will be used to burn in the future
+5. **3%** of every prediction markets round soon will be used to buy KUS for burning
 
 Currently we have fees set to 0 for our AMM, 100% of the fees goes to our LP providers.
 

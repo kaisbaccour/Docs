@@ -1,4 +1,4 @@
-# 🚀 LaunchPad \(IDO\)
+# 🚀 KusPAD \(IDO\)
 
 DeFi users are requesting inexpensive transactions, safe ultra-fast swaps, user-friendly design, and a trustable long-term platform.
 

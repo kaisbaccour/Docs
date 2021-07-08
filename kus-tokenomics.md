@@ -41,11 +41,12 @@ Developer fees are not enabled for our AMM since we launched, LP providers earn 
 
 At present, KUS is also burned in the following ways:
 
-* [x] **0.02%** of every trade made on KuSwap
+* [x] **50%** of every trade made on KuSwap
 * [x] **100%** of KUS raised in IDOs 
-* [x] **50%** of KUS sent to team address
+* [x] **50%** of  fees sent to Developer address
 * [x] **3%** of every prediction markets round soon will be used to buy KUS for burning
-* [x] **2%** of every yield harvest in the KUS Pool
+* [x] **50%** of every yield harvest in the KUS Pool
+* [x] read more here [https://docs.kuswap.finance/kus-token-burning](https://docs.kuswap.finance/kus-token-burning)
 
 **In creating the tokenomics for KUS we took inspiration from other successful AMMs we admire like Pancake and Uniswap and combined the best aspects of each one in order to create a highly optimised token that users will appreciate holding and using.**
 
