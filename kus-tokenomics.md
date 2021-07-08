@@ -32,7 +32,7 @@ Our goal is to come up with the most fair and equal distribution of the token su
 * 2,000,000 → Locked and vested for 12 months for listing, marketing and partnerships
 * 400,000 → Presale including referrals
 * 100,000 → Initial Liquidity
-* 300,000 -&gt; Reserved Liquidity
+* 300,000 → Reserved Liquidity
 * 100,000 → Future Contests ie. Trading Contests
 
 Developer fees are not enabled for our AMM since we launched, LP providers earn 100% of the fees.
