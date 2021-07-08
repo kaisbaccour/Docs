@@ -8,7 +8,7 @@ description: 'Build on KuSwap, need help? let us know.'
 
 `Mainnet Deployed @ https://kuswap.finance`
 
-**Router Address**: `0xA58350d6dEE8441aa42754346860E3545cc83cdA` 
+**Router Address**: `0xA58350d6dEE8441aa42754346860E3545cc83cdA`
 
 **Factory Address**: `0xAE46cBBCDFBa3bE0F02F463Ec5486eBB4e2e65Ae`
 
@@ -24,18 +24,16 @@ description: 'Build on KuSwap, need help? let us know.'
 
 **WKCS Address:** `0x5512Ae5E7eE55869dA7dc2a5D2F74a5Df65683B8`
 
-## How to get your token listed on KuSwap:
+## How to get your token LOGO on KuSwap:
 
-#### 1. Image for the Token Logo <a id="1-image-for-the-token-logo"></a>
+### 1. Image for the Token Logo <a id="1-image-for-the-token-logo"></a>
 
 > * **File Extension**: `png` . Uppercase `PNG` is considered invalid
 > * **File Name**：`logo.png`
 > * **Size**: `256px by 256px`
 > * **Background**: Preferably transparent
 
-
-
-#### 2. Token Information File <a id="2-token-information-file"></a>
+### 2. Token Information File <a id="2-token-information-file"></a>
 
 > * **File Extension**: `json` . Uppercase `JSON` is considered invalid
 > * **File Name**：`myToken.json`
@@ -58,11 +56,11 @@ The contract address should follow the checksum address format \(see next requir
 }
 ```
 
-## How to get Approved
-Fork and Submit @ https://github.com/KuSwap/kusTokenList
+## How to get your LOGO Approved
+
+Fork and Submit @ [https://github.com/KuSwap/kusTokenList](https://github.com/KuSwap/kusTokenList) 
+
 The Pull request will be screened before it gets added to the repository. In order to get approved, your submission must meet the following requirements.
-
-
 
 * **Project has a website.**
 * **Has a social media presence.**
@@ -72,6 +70,4 @@ The Pull request will be screened before it gets added to the repository. In ord
 ## **Let's BUIDL!**
 
 ![](.gitbook/assets/14.png)
-
-
 
