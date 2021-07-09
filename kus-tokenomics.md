@@ -28,10 +28,11 @@ Our goal is to come up with the most fair and equal distribution of the token su
   * KuDrops: 4.3% per block 
   * Holders Insurance: 1% per block 
   * Team: 9% per block 
-* 2,100,000 → Team tokens, locked and vested for 24 months
-* 2,000,000 → Locked and vested for 12 months for listing, marketing and partnerships
+* 2,000,000 → Team tokens, locked and vested for 24 months (KuSwap foundation)
+* 2,000,000 → Locked and vested for 24 months for listing, marketing and partnerships
 * 400,000 → Presale including referrals
 * 100,000 → Initial Liquidity
+* 100,000 → Burned from Team tokens (KuSwap foundation)
 * 300,000 → Reserved Liquidity
 * 100,000 → Future Contests ie. Trading Contests
 
